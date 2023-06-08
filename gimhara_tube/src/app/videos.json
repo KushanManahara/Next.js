@@ -1,0 +1,130 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Sports",
+      "videos": [
+        {
+          "id": "1",
+          "title": "Amazing Soccer Skills",
+          "url": "https://www.youtube.com/watch?v=jP7AtTj8vUQ&pp=ygUVQW1hemluZyBTb2NjZXIgU2tpbGxz",
+          "thumbnailUrl": "https://img.youtube.com/vi/jP7AtTj8vUQ/0.jpg"
+        },
+        {
+          "id": "2",
+          "title": "Best Basketball Dunks",
+          "url": "https://www.youtube.com/watch?v=U3WTHKRueYA&pp=ygUVQmVzdCBCYXNrZXRiYWxsIER1bmtz",
+          "thumbnailUrl": "https://img.youtube.com/vi/U3WTHKRueYA/0.jpg"
+        },
+        {
+          "id": "3",
+          "title": "Formula 1 Highlights",
+          "url": "https://www.youtube.com/watch?v=Yd5FCI0JWMg&pp=ygUURm9ybXVsYSAxIEhpZ2hsaWdodHM%3D",
+          "thumbnailUrl": "https://img.youtube.com/vi/Yd5FCI0JWMg/0.jpg"
+        },
+        {
+          "id": "4",
+          "title": "NFL Highlights",
+          "url": "https://www.youtube.com/watch?v=DldQhe4azr4&pp=ygUOTkZMIEhpZ2hsaWdodHM%3D",
+          "thumbnailUrl": "https://img.youtube.com/vi/DldQhe4azr4/0.jpg"
+        },
+        {
+          "id": "5",
+          "title": "MLB Highlights",
+          "url": "https://www.youtube.com/watch?v=QIwPJOl2S3E&pp=ygUOTUxCIEhpZ2hsaWdodHM%3D",
+          "thumbnailUrl": "https://img.youtube.com/vi/QIwPJOl2S3E/0.jpg"
+        },
+        {
+          "id": "6",
+          "title": "NBA Highlights",
+          "url": "https://www.youtube.com/watch?v=PIcYSk9mSX8&pp=ygUOTkJBIEhpZ2hsaWdodHM%3D",
+          "thumbnailUrl": "https://img.youtube.com/vi/PIcYSk9mSX8/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Music",
+      "videos": [
+        {
+          "id": "3",
+          "title": "Top 10 Pop Songs",
+          "url": "https://www.youtube.com/watch?v=TV-G1X7-aBo&pp=ygUQVG9wIDEwIFBvcCBTb25ncw%3D%3D",
+          "thumbnailUrl": "https://img.youtube.com/vi/TV-G1X7-aBo/0.jpg"
+        },
+        {
+          "id": "4",
+          "title": "Classic Rock Anthems",
+          "url": "https://www.youtube.com/watch?v=4no36RMWFME&pp=ygUUQ2xhc3NpYyBSb2NrIEFudGhlbXM%3D",
+          "thumbnailUrl": "https://img.youtube.com/vi/4no36RMWFME/0.jpg"
+        },
+        {
+          "id": "5",
+          "title": "Hip Hop Hits",
+          "url": "https://www.youtube.com/watch?v=rwYrEEka1mc&pp=ygUMSGlwIEhvcCBIaXRz",
+          "thumbnailUrl": "https://img.youtube.com/vi/rwYrEEka1mc/0.jpg"
+        },
+        {
+          "id": "6",
+          "title": "EDM Party Mix",
+          "url": "https://www.youtube.com/watch?v=gQlUknjUX0I&pp=ygUNRURNIFBhcnR5IE1peA%3D%3D",
+          "thumbnailUrl": "https://img.youtube.com/vi/gQlUknjUX0I/0.jpg"
+        },
+        {
+          "id": "7",
+          "title": "R&B Slow Jams",
+          "url": "https://www.youtube.com/watch?v=CJedem_nBCw&pp=ygUNUiZCIFNsb3cgSmFtcw%3D%3D",
+          "thumbnailUrl": "https://img.youtube.com/vi/CJedem_nBCw/0.jpg"
+        },
+        {
+          "id": "8",
+          "title": "Country Music Favorites",
+          "url": "https://www.youtube.com/watch?v=TKaCoISpexM&pp=ygUXQ291bnRyeSBNdXNpYyBGYXZvcml0ZXM%3D",
+          "thumbnailUrl": "https://img.youtube.com/vi/TKaCoISpexM/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Comedy",
+      "videos": [
+        {
+          "id": "5",
+          "title": "Funny Cat Compilation",
+          "url": "https://www.youtube.com/watch?v=DHfRfU3XUEo&pp=ygUVRnVubnkgQ2F0IENvbXBpbGF0aW9u",
+          "thumbnailUrl": "https://img.youtube.com/vi/DHfRfU3XUEo/0.jpg"
+        },
+        {
+          "id": "6",
+          "title": "Stand-Up Comedy Special",
+          "url": "https://www.youtube.com/watch?v=rCZkp023MdY&pp=ygUXU3RhbmQtVXAgQ29tZWR5IFNwZWNpYWw%3D",
+          "thumbnailUrl": "https://img.youtube.com/vi/rCZkp023MdY/0.jpg"
+        },
+        {
+          "id": "7",
+          "title": "Funny Dog Videos",
+          "url": "https://www.youtube.com/watch?v=ifumHS47fSw&pp=ygUQRnVubnkgRG9nIFZpZGVvcw%3D%3D",
+          "thumbnailUrl": "https://img.youtube.com/vi/ifumHS47fSw/0.jpg"
+        },
+        {
+          "id": "8",
+          "title": "Hilarious Pranks Compilation",
+          "url": "https://www.youtube.com/watch?v=cf9xsC1DetM&pp=ygUcSGlsYXJpb3VzIFByYW5rcyBDb21waWxhdGlvbg%3D%3D",
+          "thumbnailUrl": "https://img.youtube.com/vi/cf9xsC1DetM/0.jpg"
+        },
+        {
+          "id": "9",
+          "title": "Comedy Movie Bloopers",
+          "url": "https://www.youtube.com/watch?v=aWK4HmAnCdA&pp=ygUVQ29tZWR5IE1vdmllIEJsb29wZXJz",
+          "thumbnailUrl": "https://img.youtube.com/vi/aWK4HmAnCdA/0.jpg"
+        },
+        {
+          "id": "10",
+          "title": "Funny Vine Compilation",
+          "url": "https://www.youtube.com/watch?v=zVa0yHox7Ms&pp=ygUWRnVubnkgVmluZSBDb21waWxhdGlvbg%3D%3D",
+          "thumbnailUrl": "https://img.youtube.com/vi/zVa0yHox7Ms/0.jpg"
+        }
+      ]
+    }
+  ]
+}
