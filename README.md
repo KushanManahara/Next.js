@@ -7,7 +7,7 @@ This repository contains my Next.js projects, showcasing various web application
 
 ## Projects
 
-- [Gimhara Tube](https://github.com/your-username/project1)
+- [Gimhara Tube](https://github.com/KushanManahara/Next.js/tree/master/gimhara_tube)
 
 ## Getting Started
 
